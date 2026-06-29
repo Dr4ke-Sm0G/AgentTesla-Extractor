@@ -1,4 +1,3 @@
-﻿# AgentTesla-Extractor
 # 🕵️ AgentTesla Config Extractor
 
 > **Advanced .NET payload analysis tool for extracting C2 configuration from AgentTesla malware samples.**
